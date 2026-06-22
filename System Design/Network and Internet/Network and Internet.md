@@ -4,8 +4,6 @@
 
 # 🗺️ COMPLETE NETWORKING + INTERNET ROADMAP (MASTER VERSION)
 
-
-
 ---
 
 # Stage 1: What a Network Is 🔴
