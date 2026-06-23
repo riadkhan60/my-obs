@@ -1,7 +1,4 @@
 
-
-
-
 # 🗺️ COMPLETE NETWORKING + INTERNET ROADMAP (MASTER VERSION)
 
 ---
@@ -9,10 +6,6 @@
 # Stage 1: What a Network Is 🔴
 
 Learn:
-
-
-
-
 - [[What is network]]
 - [[Why networks exist]]
 - [[LAN]]
